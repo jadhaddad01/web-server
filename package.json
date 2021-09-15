@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/jadhaddad01/web-server/issues"
   },
-  "homepage": "https://github.com/jadhaddad01/web-server#readme"
+  "homepage": "https://github.com/jadhaddad01/web-server#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
